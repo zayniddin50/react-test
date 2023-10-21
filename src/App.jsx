@@ -3,7 +3,7 @@ import styles from "./app.module.scss"
 const App = () => {
   const title = "hello world"
   const user = {
-    name: "Rayn",
+    name: "Rayn1",
     age: 14,
   }
   return (
